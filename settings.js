@@ -39,10 +39,10 @@ global.wagc = ""
 global.themeemoji = '🚀'
 global.wm = "Darkexe Bot Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD6' //script link
-global.packname = "Sticker By"
-global.author = "🔮 𝘿𝙖𝙧𝙠𝙚𝙭𝙚  "
+global.packname = ""
+global.author = "🚀 𝘿𝙖𝙧𝙠𝙚𝙭𝙚𝘽𝙤𝙩 𝙈𝙙 🚀"
 global.creator = "@s.whatsapp.net"
-global.prefa = ['','!','.','#','&']
+global.prefa = ['','!','.','-','&']
 global.sessionName = 'session'
 global.hituet = 0
 
